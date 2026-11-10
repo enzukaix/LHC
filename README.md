@@ -50,7 +50,7 @@ exploitdtcs = {
   - Shadow Bans (Upon flagging a client, the server does not issue an immediate ban; instead, it enforces a designated delay period. This method significantly complicates the development and usage of exploits)
   - Freeze Client
   ## Developers and usage
-** The developers can get LHC for free by reaching out to our discord server. Requirements:**
+**The developers can get LHC for free by reaching out to our discord server. Requirements:**
 - Universal LHC (Obfuscated): 10.000+ Visits, 500+ CCU
 - Game-Specific LHC (Obfuscated, we must have access to a game mechanics copy): 50.000+, 2500+ CCU
 - Custom-Modified LHC (Unobfuscated): 1M+ Visits, 10.000+ CCU
