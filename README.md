@@ -54,4 +54,5 @@ exploitdtcs = {
 - Universal LHC (Obfuscated): 10.000+ Visits, 500+ CCU
 - Game-Specific LHC (Obfuscated, we must have access to a game mechanics copy): 50.000+, 2500+ CCU
 - Custom-Modified LHC (Unobfuscated): 1M+ Visits, 10.000+ CCU
-To Contact us, join our (Discord server!)[https://discord.gg/pftCcBUgz]
+To Contact us, join our [Discord server!](https://discord.gg/pftCcBUgz)
+
