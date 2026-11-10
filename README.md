@@ -1,7 +1,5 @@
 # LuaHook Anti-Cheat
 
-```
-``
-nzxczx
-``
+```lua
+print
 ```
